@@ -77,6 +77,7 @@
 - [jest-github-reporter](https://github.com/hipstersmoothie/jest-github-reporter) Report jest test errors directly in pull requests
 - [jest-email-reporter](https://github.com/tglink/jest-email-reporter) Reporter for jest test errors by e-mail
 - [jest-dashboard](https://github.com/theoutlander/jest-dashboard) Command line dashboard
+- [jest-reporter-log-validator](https://github.com/victorandcode/jest-reporter-log-validator) Add restrictions to your test warnings that make your test run fail
 ### Results Processors
 
 - [majestic](https://github.com/Raathigesh/majestic) Zero config UI for Jest.
